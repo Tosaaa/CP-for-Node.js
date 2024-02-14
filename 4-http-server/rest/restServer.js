@@ -1,3 +1,5 @@
+//아니 왜 안되냐고 MIME type이 뭐가 문젠데 다 로드해놓고
+
 const http = require('http');
 const fs = require('fs').promises;
 const path = require('path');
